@@ -7,7 +7,6 @@ import { Provider } from "react-redux";
 import store from "./store";
 import { colors } from "./src/theme/colors";
 import { spacing } from "./src/theme/spacing";
-import Text from "./src/components/text/text";
 import Navigation from "./navigation";
 
 export default function App() {
